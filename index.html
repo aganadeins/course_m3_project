@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' href='./assets/css/style.css'>
+    <script src="https://unpkg.com/vue@next"></script>
+    <link href="https://fonts.googleapis.com/css2?family=El+Messiri:wght@600&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
+    <title>Сытые крысы</title>
+</head>
+<body>
+    <header>
+        <img class="logo" src="./assets/images/Vector.png" width="150" height="150">
+        <nav>
+            <ul>
+                <li><a href="#">Главная</a></li>
+                <li><a href="#about">О нас</a></li>
+                <li><a href="#team">Команда</a></li>
+                <li><a href="#booking">Бронирование</a></li>
+            </ul>
+            <ul>
+                <li><a href="#menu">Меню</a></li>
+                <li><a href="#galerie">Галерея</a></li>
+                <li><a href="#events">Мероприятия</a></li>
+                <li><a href="#contacts">Контакты</a></li>
+            </ul>
+        </nav>
+        <h1>Сытые крысы</h1>
+    </header>
+    <section id="menu_section">
+        <div id='menu'>
+                <h2>Превосходное меню</h2>
+                <div class="yellow-line"> </div>
+                <ul>
+                    <li v-for="item in menus">
+                            <h3 class="menu-item-header">{{ item.header }}</h3>
+                            <div class="dotted"></div>
+                            <p class="menu-item-price">{{ item.price }} рублей</p>
+                            <p class="menu-item-description">{{ item.description }}</p>
+                    </li>
+                </ul>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+    <!--<script src="./assets/js/script.js"></script>-->
+    <script src="./assets/js/vue.js"></script>
+</body>
+</html>

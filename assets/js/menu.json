@@ -1,0 +1,142 @@
+[
+    {
+      "type": "суп",
+      "id": 1,
+      "title": "Шурпа",
+      "description": "свинина, картофель, морковь, помидоры, лук репчатый, укроп, кинза, соль",
+      "price": 245
+    },
+    {
+        "type": "суп",
+        "id": 2,
+        "title": "Лагман",
+        "description": "яйцо куриное, мясо (любое), мука пшеничная высшего сорта, морковь, лук репчатый, редька, соль, смесь перцев, масло сливочное, помидоры, петрушка (зелень), перец красный сладкий, бульон овощной",
+        "price": 300
+      },
+      {
+        "type": "суп",
+        "id": 3,
+        "title": "Солянка",
+        "description": "куриные бедра, грудинка копченая, ветчина, колбаса сырокопченая, морковь, лук репчатый, сельдерей, чеснок, масло сливочное, перец черный молотый, молотая паприка, томатная паста, лавровый лист",
+        "price": 260
+      },
+      {
+        "type": "суп",
+        "id": 4,
+        "title": "Борщ",
+        "description": "свекла, свинина, капуста, картофель, томатный бульон, чеснок",
+        "price": 300
+      },
+      {
+        "type": "суп",
+        "id": 5,
+        "title": "Гуляш",
+        "description": "говядина, лук красный, перец красный сладкий, масло растительное, томатная паста, молотая паприка, вино красное сухое, бульон овощной, картофель, лимон, чеснок, тмин, соль, петрушка (зелень)",
+        "price": 220
+      },
+      {
+        "type": "суп",
+        "id": 6,
+        "title": "Харчо",
+        "description": "мясо (любое), рис, лук репчатый, чеснок, помидоры, ткемали, орехи грецкие, соль, перец черный молотый, кинза, петрушка (зелень), укроп, лавровый лист, мука пшеничная высшего сорта",
+        "price": 350
+      },
+      {
+        "type": "суп",
+        "id": 7,
+        "title": "Овощной",
+        "description": "помидоры, перец зеленый сладкий, кукуруза мороженая, имбирь, лук репчатый, морковь, сок томатный, перец горошком, соль, масло сливочное, оливковое масло",
+        "price": 280
+      },
+      {
+        "type": "суп",
+        "id": 8,
+        "title": "Томатная окрошка",
+        "description": "черри, вода минеральная, перец оранжевый сладкий, огурцы, перец чили, печень трески, винный уксус, молотая паприка, перец черный молотый, сахар, соль морская, оливковое масло, зелень",
+        "price": 230
+      },
+      {
+        "type": "суп",
+        "id": 9,
+        "title": "Рамен",
+        "description": "оливковое масло, лук репчатый, морковь, сельдерей (стебель), соль, перец черный молотый, чеснок, петрушка (зелень), бульон говяжий, соевый соус, вода, лапша яичная, сосиски, лук зеленый, яйцо",
+        "price": 320
+      },
+      {
+        "type": "суп",
+        "id": 10,
+        "title": "Гаспачо",
+        "description": "помидоры, перец красный сладкий, огурцы, хлеб белый, печень трески, чеснок, сок лимона, оливковое масло, соль, перец черный молотый, перец чили",
+        "price": 320
+      },
+      {
+        "type": "пицца",
+        "id": 11,
+        "title": "Nam egestas",
+        "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+        "price": 245
+      },
+      {
+          "type": "пицца",
+          "id": 12,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 300
+        },
+        {
+          "type": "пицца",
+          "id": 13,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 260
+        },
+        {
+          "type": "пицца",
+          "id": 14,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 300
+        },
+        {
+          "type": "пицца",
+          "id": 15,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 220
+        },
+        {
+          "type": "пицца",
+          "id": 16,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 350
+        },
+        {
+          "type": "пицца",
+          "id": 17,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 280
+        },
+        {
+          "type": "пицца",
+          "id": 18,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 230
+        },
+        {
+          "type": "пицца",
+          "id": 19,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "price": 320
+        },
+        {
+          "type": "пицца",
+          "id": 20,
+          "title": "Fusce id",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem",
+          "price": 320
+        }
+]
