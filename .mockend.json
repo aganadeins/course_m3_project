@@ -1,5 +1,5 @@
 [
-    {
+      {
       "type": "суп",
       "id": 1,
       "title": "Шурпа",
@@ -80,35 +80,35 @@
           "type": "пицца",
           "id": 12,
           "title": "Fusce id",
-          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu se",
           "price": 300
         },
         {
           "type": "пицца",
           "id": 13,
           "title": "Fusce id",
-          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu se",
           "price": 260
         },
         {
           "type": "пицца",
           "id": 14,
           "title": "Fusce id",
-          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu se",
           "price": 300
         },
         {
           "type": "пицца",
           "id": 15,
           "title": "Fusce id",
-          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu se",
           "price": 220
         },
         {
           "type": "пицца",
           "id": 16,
           "title": "Fusce id",
-          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem.",
+          "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem",
           "price": 350
         },
         {
@@ -139,4 +139,4 @@
           "description": "Morbi a turpis quis nulla mollis sollicitudin eget eu sem",
           "price": 320
         }
-]
+      ]
